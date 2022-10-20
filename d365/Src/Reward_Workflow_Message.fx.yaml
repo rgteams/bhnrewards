@@ -466,3 +466,11 @@ Reward_Workflow_Message As screen:
             Y: =78
             ZIndex: =6
 
+    Button1 As button:
+        Size: =9
+        Text: ="Buttonate to Preview Screen"
+        Width: =222
+        X: =570
+        Y: =40
+        ZIndex: =12
+
