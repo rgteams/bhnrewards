@@ -108,10 +108,8 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "Screen2",
     "Reward_Workflow",
     "Reward_Workflow_Message",
-    "Reward_Workflow_Preview",
-    "Screen1"
+    "Reward_Workflow_Preview"
   ]
 }
