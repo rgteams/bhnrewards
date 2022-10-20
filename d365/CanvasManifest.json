@@ -110,6 +110,7 @@
   "ScreenOrder": [
     "Reward_Workflow",
     "Reward_Workflow_Message",
-    "Reward_Workflow_Preview"
+    "Reward_Workflow_Preview",
+    "Activity_Tracker_Delivery_Tracker"
   ]
 }
