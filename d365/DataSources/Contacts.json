@@ -219,6 +219,8 @@
       "msdyn_msdyn_taggedrecord_contact_msdyn_dynamicsrecordid": "Tagged Records",
       "msdyn_orgchangestatus": "Not at Company Flag",
       "msdyn_playbookinstance_contact": "Playbooks",
+      "msdyn_sabackupdiagnostic_contact_msdyn_target": "sabackupdiagnostics",
+      "msdyn_salesroutingdiagnostic_contact_msdyn_target": "salesroutingdiagnostics",
       "msdyn_segmentid": "Segment Id",
       "msdyn_sequencetarget_contact_msdyn_target": "Sequence Targets",
       "nickname": "Nickname",
